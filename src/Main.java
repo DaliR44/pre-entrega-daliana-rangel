@@ -9,7 +9,7 @@ public class Main {
     int idSiguiente = productosDB.size() + 1;
     int opcionUsuario;
 
-    System.out.println("🧵 Bienvenido/a a LANA STORE 🧶");
+    System.out.println("🧵 Bienvenido/a a LANA STORE  🧶");
 
     menuPrincipal:
     while (true) {
